@@ -19,3 +19,11 @@ Observables: Signal strength for WZ and ZZ separately, M(bb)
 WW -> lvlv, 8 TeV, CMS
 Observables: Number of events per category (0-jet, 1-jet), pT(l,max), pT(ll), m(ll), DeltaPhi(ll)
 http://arxiv.org/pdf/1507.03268.pdf
+
+Wgamma, Zgamma -> l v gamma,ll v gamma, 7 TeV, CMS
+Observables: pT(gamma) 
+http://arxiv.org/pdf/1308.6832.pdf
+
+Wgamma, Zgamma -> l v gamma,ll v gamma, 7 TeV, ATLAS
+Observables: ET(gamma), MET, M(lvgamma), jet multiplicity
+http://arxiv.org/pdf/1302.1283.pdf
