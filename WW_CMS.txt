@@ -1,0 +1,28 @@
+Trigger: 
+single-electron pT>27 GeV, single-muon pT>24 GeV, dilepton pT(l1)>17 GeV pT(l2)>8GeV
+
+Samples: 
+qq->WW powheg and madgraph
+gg->WW gg2ww, qq->WW + gg->WW normalized to NNLO
+top backgrounds powheg
+Higgs processes powheg
+WZ, ZZ and VVV, and W+jets madgraph
+The rest with pythia 6
+Veto on events with high-pT jets
+
+Selection:
+e+e-, mu+mu-, e+-mu-+ 10% contribution from W->tau v
+pT(l)>20 GeV
+|eta(e)|<2.5, |eta(mu)|<2.4
+Electron isolation -> DeltaR=0.3 (E(outside the cone)/E(inside the cone) = 10%
+AK5 jets
+pT(j)>30 GeV, |eta(j)|<4.7
+N(j)<2
+MET>20 GeV
+M(ll)>12 GeV 
+pT(e+e-)>45 GeV, pT(mu+mu-)>45 GeV, pT(e-+mu+-)>30 GeV
+|M(ll)-M(Z)|>15 GeV
+DY MVA (How to reproduce??)
+
+Variable used to constrain Wilson coefficients:
+M(ll)
