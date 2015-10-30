@@ -27,3 +27,6 @@ http://arxiv.org/pdf/1308.6832.pdf
 Wgamma, Zgamma -> l v gamma,ll v gamma, 7 TeV, ATLAS
 Observables: ET(gamma), MET, M(lvgamma), jet multiplicity
 http://arxiv.org/pdf/1302.1283.pdf
+
+MadGraph model-> 
+https://cp3.irmp.ucl.ac.be/projects/madgraph/wiki/Models/EWdim6
