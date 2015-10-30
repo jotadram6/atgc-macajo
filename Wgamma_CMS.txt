@@ -1,0 +1,18 @@
+Samples:
+Main background -> W+jets with one jet misidentified as a photon (data-driven estimation)
+ttbar, gamma+jets, QCD -> From MC
+Signal: Wgamma + n jets, n<3 (MadGraph+Pythia6)
+ttbar, W+jets, Z+jets, WW and gamma gamma (MadGraph+Pythia6)
+QCD, gamma+jets, WZ, ZZ (Pythia)
+
+Selection:
+Electrons -> pT>35 GeV, |eta|<2.5
+Photons -> pT>15 GeV, |eta|<2.5
+Muons -> pT>35 GeV, |eta|<2.1
+Electron trigger: one electron, pT(l)>32 GeV, |eta(l)|<3, MTW>50 GeV
+Muon trigger: pT(l)>30 GeV, |eta(l)|<2.1
+DeltaR(l,gamma)>0.7
+Veto on second same flavour lepton: pT(e)>20 GeV, |eta(e)|<2.5, pT(mu)>10 GeV, |eta(mu)|<2.4
+MWT>70 GeV
+
+Variable used to constrain Wilson coefficients: Events yields as a function of pT(gamma)
